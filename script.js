@@ -57,6 +57,7 @@ startButton.addEventListener('click', () => {
     }
 
     function createBoard() {
+        startTimer();
         shuffle(cardArray);
         grid.innerHTML = '';
         cardsWon = [];
