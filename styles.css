@@ -38,6 +38,9 @@ h1 {
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); /* Optional: Add a subtle shadow */
 }
 
+/* Additional styling as needed */
+
+
 #game-board {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
