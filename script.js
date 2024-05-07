@@ -16,6 +16,16 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: 'card4', img: 'images/3.jpeg' },
         { name: 'card5', img: 'images/5.jpeg' },
         { name: 'card5', img: 'images/5.jpeg' },
+        { name: 'card6', img: '' },
+        { name: 'card6', img: '' },
+        { name: 'card7', img: '' },
+        { name: 'card7', img: '' },
+        { name: 'card8', img: '' },
+        { name: 'card8', img: '' },
+        { name: 'card9', img: '' },
+        { name: 'card9', img: '' },
+        { name: 'card10', img: '' },
+        { name: 'card10', img: '' },
         // ...add more pairs as needed
     ];
 
